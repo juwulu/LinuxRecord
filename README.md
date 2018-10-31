@@ -1,5 +1,5 @@
-Linux 系统目录结构
-+/bin：
+## Linux 系统目录结构
++ /bin：
 >bin是Binary的缩写, 这个目录存放着最经常使用的命令。
 
 +/boot：
